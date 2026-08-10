@@ -1,7 +1,5 @@
 <div align="center">
 
-## "If it's not tested, it's haunted." 👻
-
 **QA by day. Building the tools that do the testing by night.**
 
 <img src="./cat.png" width="500" alt="me, reviewing a bug report that says 'it doesn't work'" />
@@ -14,7 +12,7 @@
 
 # Hi, I'm Ly 👋
 
-QA engineer who got tired of QA tooling, so I started building my own.
+Software QA Engineer from Cagayan de Oro.
 
 I work in **manual and AI-assisted QA** every day: test planning, regression passes, bug reports that developers can actually reproduce. The other half of my time goes into automating that work away.
 
