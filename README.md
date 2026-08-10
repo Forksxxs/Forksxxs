@@ -12,14 +12,6 @@
 
 # Hi, I'm Ly 👋
 
-Software QA Engineer from Cagayan de Oro.
-
-I work in **manual and AI-assisted QA** every day: test planning, regression passes, bug reports that developers can actually reproduce. The other half of my time goes into automating that work away.
-
-## 🔭 Currently building
-
-**[Watchtower](https://watchtower.systems)** at NorthQA: an AI QA command center. It reads your tickets, generates Playwright and Cypress tests into your repo, runs them headless in CI, and answers the only question that matters: *is it safe to ship?*
-
 ## 🧰 What I work with
 
 <div align="center">
@@ -41,8 +33,3 @@ I work in **manual and AI-assisted QA** every day: test planning, regression pas
 - Flaky tests are worse than no tests: they teach people to ignore red
 - The best QA tooling removes the boring work and keeps the judgment
 
-## 📫 Reach me
-
-- Email: [shirlydahan83@gmail.com](mailto:shirlydahan83@gmail.com)
-- LinkedIn: [linkedin.com/in/shirly-dahan83](https://www.linkedin.com/in/shirly-dahan83/)
-- Watchtower early access: [watchtower.systems](https://watchtower.systems)
