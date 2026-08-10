@@ -10,9 +10,7 @@
 
 ---
 
-# Hi, I'm Ly 👋
-
-## 🧰 What I work with
+## Hi, I'm Ly 👋
 
 <div align="center">
 
@@ -25,11 +23,4 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 </div>
-
-## 🧪 How I think about QA
-
-- Coverage should be a fact you look up, not a guess
-- A bug report is only as good as its reproduction steps
-- Flaky tests are worse than no tests: they teach people to ignore red
-- The best QA tooling removes the boring work and keeps the judgment
 
