@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./cat.png" width="500" alt="reopened.'" />
+<img src="./cat.png" width="500" alt="'" />
 
-*me, reviewing a bug report that just says "it doesn't work"*
+*reopened."*
 
 </div>
 
