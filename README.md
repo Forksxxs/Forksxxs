@@ -2,8 +2,6 @@
 
 <img src="./cat.png" width="500" alt="'" />
 
-*Intended by design...*
-
 </div>
 
 ---
